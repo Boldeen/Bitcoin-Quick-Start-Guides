@@ -1,5 +1,5 @@
-## Bitcoin-Starter-Guide.  
-# A easily printable, tri-fold, A4 bitcoin guide for brick and mortar shops.
+# Bitcoin-Starter-Guide.  
+## A easily printable, tri-fold, A4 bitcoin guide for brick and mortar shops.
 
 The guide should be a very simple quick start guide.  
 
